@@ -8,7 +8,7 @@
                 <!-- logo for regular state and mobile devices -->
                    <div class="d-flex align-items-center justify-content-center">                     
                         <img src="{{ asset('') }}images/logo-dark.png" alt="">
-                        <h3><b>Sunny</b> Admin</h3>
+                        <h3><b>Inventory</b> Admin</h3>
                    </div>
               </a>
           </div>
